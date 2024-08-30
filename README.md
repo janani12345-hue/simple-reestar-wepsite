@@ -14,8 +14,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/reestar.git
-Navigate into the project directory:
+git  live at https://janani12345-hue.github.io/simple-reestar-wepsite/
+Thank you for visiting 
+
 
 bash
 Copy code
